@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="app_preset_prof_preset_name">SolutionSetTest Launch Configuration</entry>
+<entry key="app_preset_prof_preset_filter_s"/>
+<entry key="app_preset_prof_preset_filter_p">com.x1a0ch1.test.*,
+jmetal.core.*,
+jmetal.encodings.solutionType.*,
+jmetal.encodings.variable.*,
+jmetal.experiments.*,
+jmetal.metaheuristics.abyss.*,
+jmetal.metaheuristics.cellde.*,
+jmetal.metaheuristics.densea.*,
+jmetal.metaheuristics.dmopso.*,
+jmetal.metaheuristics.fastPGA.*,
+jmetal.metaheuristics.gde3.*,
+jmetal.metaheuristics.ibea.*,
+jmetal.metaheuristics.mocell.*,
+jmetal.metaheuristics.mochc.*,
+jmetal.metaheuristics.moead.*,
+jmetal.metaheuristics.mofa.*,
+jmetal.metaheuristics.nsgaII.*,
+jmetal.metaheuristics.omopso.*,
+jmetal.metaheuristics.paes.*,
+jmetal.metaheuristics.pesa2.*,
+jmetal.metaheuristics.randomSearch.*,
+jmetal.metaheuristics.singleObjective.cmaes.*,
+jmetal.metaheuristics.singleObjective.differentialEvolution.*,
+jmetal.metaheuristics.singleObjective.evolutionStrategy.*,
+jmetal.metaheuristics.singleObjective.geneticAlgorithm.*,
+jmetal.metaheuristics.singleObjective.particleSwarmOptimization.*,
+jmetal.metaheuristics.smpso.*,
+jmetal.metaheuristics.smsemoa.*,
+jmetal.metaheuristics.spea2.*,
+jmetal.operators.crossover.*,
+jmetal.operators.localSearch.*,
+jmetal.operators.mutation.*,
+jmetal.operators.selection.*,
+jmetal.problems.*,
+jmetal.qualityIndicator.*,
+jmetal.test.core.*,
+jmetal.test.encodings.variable.*,
+jmetal.test.experiments.settings.*,
+jmetal.test.qualityIndicator.fastHypervolume.wfg.*,
+jmetal.test.util.avl.*,
+jmetal.util.*</entry>
+<entry key="app_preset_prof_preset_alloc_p">10</entry>
+<entry key="app_preset_"/>
+<entry key="app_preset_prof_preset_samplingRefreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_stacks_p">false</entry>
+<entry key="app_preset_prof_preset_roots_p">com.x1a0ch1.test.**
+jmetal.core.**
+jmetal.encodings.solutionType.**
+jmetal.encodings.variable.**
+jmetal.experiments.**
+jmetal.metaheuristics.abyss.**
+jmetal.metaheuristics.cellde.**
+jmetal.metaheuristics.densea.**
+jmetal.metaheuristics.dmopso.**
+jmetal.metaheuristics.fastPGA.**
+jmetal.metaheuristics.gde3.**
+jmetal.metaheuristics.ibea.**
+jmetal.metaheuristics.mocell.**
+jmetal.metaheuristics.mochc.**
+jmetal.metaheuristics.moead.**
+jmetal.metaheuristics.mofa.**
+jmetal.metaheuristics.nsgaII.**
+jmetal.metaheuristics.omopso.**
+jmetal.metaheuristics.paes.**
+jmetal.metaheuristics.pesa2.**
+jmetal.metaheuristics.randomSearch.**
+jmetal.metaheuristics.singleObjective.cmaes.**
+jmetal.metaheuristics.singleObjective.differentialEvolution.**
+jmetal.metaheuristics.singleObjective.evolutionStrategy.**
+jmetal.metaheuristics.singleObjective.geneticAlgorithm.**
+jmetal.metaheuristics.singleObjective.particleSwarmOptimization.**
+jmetal.metaheuristics.smpso.**
+jmetal.metaheuristics.smsemoa.**
+jmetal.metaheuristics.spea2.**
+jmetal.operators.crossover.**
+jmetal.operators.localSearch.**
+jmetal.operators.mutation.**
+jmetal.operators.selection.**
+jmetal.problems.**
+jmetal.qualityIndicator.**
+jmetal.test.core.**
+jmetal.test.encodings.variable.**
+jmetal.test.experiments.settings.**
+jmetal.test.qualityIndicator.fastHypervolume.wfg.**
+jmetal.test.util.avl.**
+jmetal.util.**
+</entry>
+<entry key="profiler.settings.instrument.empty.methods">false</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
+<entry key="app_preset_prof_preset_samplingRate_s">100</entry>
+<entry key="app_preset_prof_preset_filterMode_s">true</entry>
+<entry key="app_preset_prof_preset_selector"/>
+<entry key="app_preset_prof_preset_refreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_runnables_p">true</entry>
+<entry key="app_preset_prof_preset_filterMode_p">false</entry>
+<entry key="app_preset_prof_preset_memoryMode_p">true</entry>
+</properties>
